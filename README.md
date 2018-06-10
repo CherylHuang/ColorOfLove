@@ -1,3 +1,2 @@
 # ColorOfLove
 Graduation Project
-HA
